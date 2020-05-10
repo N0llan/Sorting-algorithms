@@ -27,9 +27,6 @@
     <ClInclude Include="Settingsmenu.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="Z:\Spara\Programvaruteknik\2014 - 2015 (ÅR1)\(LP3) Objektbaserad programmering i C++ (DT019G) (A)\Projekt\MenuItem.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
     <ClInclude Include="mainMenu.h">
       <Filter>Header Files</Filter>
     </ClInclude>
@@ -46,6 +43,9 @@
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="Selectionsort.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="MenuItem.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
@@ -65,9 +65,6 @@
     <ClCompile Include="Settingsmenu.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="Z:\Spara\Programvaruteknik\2014 - 2015 (ÅR1)\(LP3) Objektbaserad programmering i C++ (DT019G) (A)\Projekt\MenuItem.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
     <ClCompile Include="mainMenu.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
@@ -84,6 +81,9 @@
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="Selectionsort.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="MenuItem.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
