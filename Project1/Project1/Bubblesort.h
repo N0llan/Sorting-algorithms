@@ -8,7 +8,5 @@ class Bubblesort : public Sort {
 		void sort(vector<float> &data);
 	private:
 		bool swapped;
-		bool hej;
-
 };
 
